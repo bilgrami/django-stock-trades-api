@@ -1,0 +1,1 @@
+# django-stock-trades-api
