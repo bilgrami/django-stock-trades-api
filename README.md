@@ -12,10 +12,10 @@ run this first
 
 then browse this url
 
-http://localhost:8000/trades/
-http://localhost:8000/trades/users
-http://localhost:8000/trades/1
-http://localhost:8000/trades/users/1/
+- http://localhost:8000/trades/
+- http://localhost:8000/trades/users
+- http://localhost:8000/trades/1
+- http://localhost:8000/trades/users/1/
 
 
 ## Testing
